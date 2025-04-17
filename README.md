@@ -1,21 +1,21 @@
 
-```markdown
+``` 
  🚀 Guide de Déploiement : Laravel + React + Breeze + Filament v3 avec Docker (Laravel Sail)
 
 Ce guide complet vous accompagne étape par étape dans la création d'une application moderne avec Laravel**, React, Filament v3, et Docker via Laravel Sail.
-
----
-
-### ✅ Prérequis
+##✅ Prérequis
 
 Avant de commencer, assurez-vous d'avoir installé les outils suivants :
 
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Docker Desktop](https://www.docker.com/products/docker-desktop)
+- Visual Studio Code
+- Docker Desktop
 - Docker Compose v2+
-- [Git](https://git-scm.com/) & [Composer](https://getcomposer.org/)
-- [Node.js ≥ 18](https://nodejs.org/) et npm ≥ 9
+- Git
+- Node.js ≥ 18  et npm ≥ 9
 - Ubuntu avec WSL2 (pour Windows) :
+---
+
+
 
 ```bash
 wsl --install -d Ubuntu
